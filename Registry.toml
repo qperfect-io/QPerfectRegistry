@@ -4,3 +4,4 @@ repo = "git@github.com:qperfect-io/QPerfectRegistry.git"
 description = "QPerfect's Julia packages registry"
 
 [packages]
+02e1a8d2-c0bf-449f-9d6e-85b4cfc6bdab = { name = "BiMaps", path = "B/BiMaps" }
