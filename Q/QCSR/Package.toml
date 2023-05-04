@@ -1,0 +1,3 @@
+name = "QCSR"
+uuid = "31851a07-8ce5-4a98-af99-b32056fdd1d1"
+repo = "https://github.com/qperfect-io/QCSR.jl.git"

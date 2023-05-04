@@ -5,3 +5,4 @@ description = "QPerfect's Julia packages registry"
 
 [packages]
 02e1a8d2-c0bf-449f-9d6e-85b4cfc6bdab = { name = "BiMaps", path = "B/BiMaps" }
+31851a07-8ce5-4a98-af99-b32056fdd1d1 = { name = "QCSR", path = "Q/QCSR" }
