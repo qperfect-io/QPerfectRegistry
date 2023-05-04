@@ -1,0 +1,6 @@
+name = "QPerfectRegistry"
+uuid = "b21ab104-0ed5-4848-bfc8-3094fe3dee88"
+repo = "git@github.com:qperfect-io/QPerfectRegistry.git"
+description = "QPerfect's Julia packages registry"
+
+[packages]
