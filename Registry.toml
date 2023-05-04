@@ -5,6 +5,7 @@ description = "QPerfect's Julia packages registry"
 
 [packages]
 02e1a8d2-c0bf-449f-9d6e-85b4cfc6bdab = { name = "BiMaps", path = "B/BiMaps" }
+281e006c-9395-434b-8b58-3065901f9db3 = { name = "MimiqCircuits", path = "M/MimiqCircuits" }
 31851a07-8ce5-4a98-af99-b32056fdd1d1 = { name = "QCSR", path = "Q/QCSR" }
 3a95eabf-73f4-453e-aae8-8a11a27ac032 = { name = "MimiqCircuitsBase", path = "M/MimiqCircuitsBase" }
 75412a89-3e23-4d98-b652-ed58604dd601 = { name = "MimiqLink", path = "M/MimiqLink" }
