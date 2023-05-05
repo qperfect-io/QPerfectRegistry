@@ -9,3 +9,4 @@ description = "QPerfect's Julia packages registry"
 31851a07-8ce5-4a98-af99-b32056fdd1d1 = { name = "QCSR", path = "Q/QCSR" }
 3a95eabf-73f4-453e-aae8-8a11a27ac032 = { name = "MimiqCircuitsBase", path = "M/MimiqCircuitsBase" }
 75412a89-3e23-4d98-b652-ed58604dd601 = { name = "MimiqLink", path = "M/MimiqLink" }
+ef755e0c-c87d-458d-9d33-e956d56108e0 = { name = "MimiqVisual", path = "M/MimiqVisual" }
