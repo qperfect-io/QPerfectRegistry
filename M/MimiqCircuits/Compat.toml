@@ -1,5 +1,4 @@
 [0]
-QCSR = "0.4"
 julia = "1.6.0-1"
 
 ["0-0.3"]
@@ -8,9 +7,17 @@ MimiqLink = "0.3"
 ["0-0.3.0"]
 MimiqCircuitsBase = "0.1"
 
+["0-0.5"]
+QCSR = "0.4"
+
 ["0.3.1-0.3"]
 MimiqCircuitsBase = "0.2"
 
-["0.5-0"]
+["0.5"]
 MimiqCircuitsBase = "0.3"
+
+["0.5-0"]
 MimiqLink = "0.4"
+
+["0.6-0"]
+MimiqCircuitsBase = "0.4"
