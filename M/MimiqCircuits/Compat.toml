@@ -13,6 +13,9 @@ QCSR = "0.4"
 ["0.10-0"]
 MimiqCircuitsBase = "0.8"
 
+["0.11-0"]
+MimiqLink = "0.7"
+
 ["0.3.1-0.3"]
 MimiqCircuitsBase = "0.2"
 
@@ -34,5 +37,5 @@ MimiqLink = "0.5"
 ["0.8-0.9"]
 MimiqCircuitsBase = "0.7"
 
-["0.9-0"]
+["0.9-0.10"]
 MimiqLink = "0.6"
