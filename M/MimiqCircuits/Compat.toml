@@ -20,10 +20,15 @@ MimiqLink = "0.7"
 MimiqCircuitsBase = "0.9"
 MimiqLink = "0.8"
 
+["0.17"]
+MimiqLink = "0.9"
+
 ["0.17 - 0"]
 MimiqCircuitsBase = "0.13"
-MimiqLink = "0.9"
 julia = "1.6.0 - 1"
+
+["0.18 - 0"]
+MimiqLink = "0.10"
 
 ["0.3.1 - 0.3"]
 MimiqCircuitsBase = "0.2"
