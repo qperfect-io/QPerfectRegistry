@@ -32,8 +32,11 @@ MimiqCircuitsBase = "0.13"
 ["0.18 - 0"]
 MimiqLink = "0.10"
 
-["0.19 - 0"]
+["0.19"]
 MimiqCircuitsBase = "0.14"
+
+["0.20 - 0"]
+MimiqCircuitsBase = "0.17"
 
 ["0.3.1 - 0.3"]
 MimiqCircuitsBase = "0.2"
