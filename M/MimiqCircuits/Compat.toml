@@ -1,16 +1,16 @@
-["0 - 0.13"]
+[0]
 julia = "1.6.0-1"
 
-["0 - 0.3"]
+["0-0.3"]
 MimiqLink = "0.3"
 
-["0 - 0.3.0"]
+["0-0.3.0"]
 MimiqCircuitsBase = "0.1"
 
-["0 - 0.5"]
+["0-0.5"]
 QCSR = "0.4"
 
-["0.10 - 0.11"]
+["0.10-0.11"]
 MimiqCircuitsBase = "0.8"
 
 ["0.11"]
@@ -23,28 +23,28 @@ MimiqLink = "0.8"
 ["0.17"]
 MimiqLink = "0.9"
 
-["0.17 - 0"]
-julia = "1.6.0 - 1"
-
-["0.17 - 0.18"]
+["0.17-0.18"]
 MimiqCircuitsBase = "0.13"
 
-["0.18 - 0"]
+["0.18-0"]
 MimiqLink = "0.10"
 
 ["0.19"]
 MimiqCircuitsBase = "0.14"
 
-["0.20 - 0"]
+["0.20"]
 MimiqCircuitsBase = "0.17"
 
-["0.3.1 - 0.3"]
+["0.23-0"]
+MimiqCircuitsBase = "0.21"
+
+["0.3.1-0.3"]
 MimiqCircuitsBase = "0.2"
 
 ["0.5"]
 MimiqCircuitsBase = "0.3"
 
-["0.5 - 0.6"]
+["0.5-0.6"]
 MimiqLink = "0.4"
 
 ["0.6"]
@@ -53,11 +53,11 @@ MimiqCircuitsBase = "0.4"
 ["0.7"]
 MimiqCircuitsBase = "0.5"
 
-["0.7 - 0.8"]
+["0.7-0.8"]
 MimiqLink = "0.5"
 
-["0.8 - 0.9"]
+["0.8-0.9"]
 MimiqCircuitsBase = "0.7"
 
-["0.9 - 0.10"]
+["0.9-0.10"]
 MimiqLink = "0.6"
