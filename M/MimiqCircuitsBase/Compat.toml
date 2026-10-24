@@ -6,6 +6,8 @@ Graphs = "1"
 InteractiveUtils = "1"
 NearestNeighbors = "0.4"
 ProtoBuf = "1.2"
-StaticArrays = "1.9"
 SymbolicUtils = "4"
 Symbolics = "7"
+
+["0.21-0.25"]
+StaticArrays = "1.9"

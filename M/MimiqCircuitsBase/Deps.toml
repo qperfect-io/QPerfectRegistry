@@ -18,14 +18,18 @@ Bijections = "e2ed5e7c-b2de-5872-ae92-c73ca462fb04"
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
 NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
+
+["0.21-0.25"]
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 ["0.4-0"]
-CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
 ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 SymbolicUtils = "d1185830-fcd6-423d-90d6-eec64667417b"
 Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
+["0.4-0.25"]
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
 
 ["0.5-0"]
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
